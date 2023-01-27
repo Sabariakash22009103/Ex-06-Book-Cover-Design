@@ -16,10 +16,6 @@ Write down the code for book cover using HTML and CSS.
 ### Step 5:
 Add images and other contents using CSS record a screenshot of it.
 
-# Output:
-![Web](https://user-images.githubusercontent.com/119390227/213149510-d200ba98-e678-4d1e-ba35-32ffa4214593.png)
-
-
 # Code:
 ## HTML:
 ```
@@ -110,3 +106,6 @@ footer{
     padding-right:60px;
   }
   ```
+  # Output:
+![Web](https://user-images.githubusercontent.com/119390227/213149510-d200ba98-e678-4d1e-ba35-32ffa4214593.png)
+
